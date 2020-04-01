@@ -53,6 +53,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\Orange.cs" />
      <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\Player.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Asus/Desktop/Unity/GamePlatform/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
