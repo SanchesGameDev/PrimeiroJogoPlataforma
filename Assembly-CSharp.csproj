@@ -53,7 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\FallingPlatform.cs" />
      <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\NextLevel.cs" />
      <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\Orange.cs" />
      <Compile Include="Assets\Pixel Adventure 1\Assets\Scripts\Player.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
